@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 30px;
+    color: white;
+    font-family: cursive;
+}
+
+img{
+    height: 500px;
+}
+
+.bold{
+    font-weight: bold;
+    color: white;
+}
